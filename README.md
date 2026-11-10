@@ -89,21 +89,23 @@ This finding indicates an association, not proof of causation.
 
 ## 6. Power BI Dashboard — Veyra Telecom
 
-Developed a three-page interactive Power BI report to communicate customer churn patterns, identify potential churn drivers, and present statistical findings.
+Developed a three-page interactive Power BI report to analyze customer churn, identify churn drivers, and investigate early-tenure customer risk.
 
-### Page 1 — Churn Overview
+### Page 1 — Customer Churn Overview
 
-Overall customer churn performance, customer distribution, contract types, internet services, monthly charges, and tenure.
+![Customer Churn Overview](power-bi/Churn%20Overview.png)
 
-### Page 2 — Churn Drivers
+### Page 2 — Churn Drivers & Customer Segmentation
 
-Analysis of churn by service adoption and payment method, supported by KPI cards and business takeaways.
+![Churn Drivers](power-bi/Churn%20Drivers.png)
 
 ### Page 3 — Early-Tenure Risk & Hypothesis Testing
 
-Comparison of high-charge and low-charge customer churn rates, statistical test results, confidence interval, conclusion, and business recommendations.
+![Early-Tenure Risk and Hypothesis Testing](power-bi/Early-Tenure%20Risk%20%26%20Hypothesis%20Testing.png)
 
-**Dashboard Screenshots**
+**Power BI Files:**
+- [Download Power BI Report](power-bi/Veyra_Telecom_Churn_Analysis.pbix)
+- [View PDF Report](power-bi/Veyra_Telecom_Churn_Analysis.pdf)
 
 
 
